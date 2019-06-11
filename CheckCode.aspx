@@ -11,6 +11,7 @@
     <div>
     <table>
        <td>
+           <td>玉湖修改了文件</td>
              <img alt="看不清,请点击我" src="CheckCode.aspx" style="width:76px;height:30px; cursor:hand" onclick="src=src+'?'" />
       </td>
     </table>
