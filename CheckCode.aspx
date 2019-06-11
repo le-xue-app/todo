@@ -11,6 +11,7 @@
     <div>
     <table>
        <td>
+           <td>我已修改</td>
              <img alt="看不清,请点击我" src="CheckCode.aspx" style="width:76px;height:30px; cursor:hand" onclick="src=src+'?'" />
       </td>
     </table>
