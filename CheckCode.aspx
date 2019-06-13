@@ -12,9 +12,12 @@
 hello！
     <table>
        <td>
-           <td>玉虎修改了文件</td>
-           <td>玉虎又改了一下文件!</td>
-        <td>xxx</td>
+           <a>....</a>
+            <a>....</a>
+            <a>....</a>
+            <a>....</a>
+            <a>....</a>
+            <a>....</a>
              <img alt="看不清,请点击我" src="CheckCode.aspx" style="width:76px;height:30px; cursor:hand" onclick="src=src+'?'" />
       </td>
     </table>
