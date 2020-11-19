@@ -214,10 +214,10 @@
       </div>
       <!-- /main-->
       <div class="footer1">
-        © 2018 This thing for the  my lover 
+        © 2018 This thing for the  my lover 123
             <!-- /main-->
       <div class="footer1">
-        © 2018 This thing for the  my lover 
+        © 2018 This thing for the  my lover 123
       </div>
     </div>
     <!-- /page-->
